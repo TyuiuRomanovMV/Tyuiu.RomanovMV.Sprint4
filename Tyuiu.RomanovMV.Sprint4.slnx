@@ -1,5 +1,12 @@
 <Solution>
-  <Project Path="Tyuiu.RomanovMV.Sprint4.Task0.V9.Lib/Tyuiu.RomanovMV.Sprint4.Task0.V9.Lib.csproj" />
-  <Project Path="Tyuiu.RomanovMV.Sprint4.Task0.V9.Test/Tyuiu.RomanovMV.Sprint4.Task0.V9.Test.csproj" />
-  <Project Path="Tyuiu.RomanovMV.Sprint4.Task0.V9/Tyuiu.RomanovMV.Sprint4.Task0.V9.csproj" />
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.RomanovMV.Sprint4.Task0.V9.Lib/Tyuiu.RomanovMV.Sprint4.Task0.V9.Lib.csproj" />
+    <Project Path="Tyuiu.RomanovMV.Sprint4.Task0.V9.Test/Tyuiu.RomanovMV.Sprint4.Task0.V9.Test.csproj" />
+    <Project Path="Tyuiu.RomanovMV.Sprint4.Task0.V9/Tyuiu.RomanovMV.Sprint4.Task0.V9.csproj" />
+  </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.RomanovMV.Sprint4.Task1.V17.Lib/Tyuiu.RomanovMV.Sprint4.Task1.V17.Lib.csproj" Id="50338f74-8629-4fa5-a923-922de4df8038" />
+    <Project Path="Tyuiu.RomanovMV.Sprint4.Task1.V17.Test/Tyuiu.RomanovMV.Sprint4.Task1.V17.Test.csproj" Id="11860338-8ff0-4b97-a977-5cf9658b2834" />
+    <Project Path="Tyuiu.RomanovMV.Sprint4.Task1.V17/Tyuiu.RomanovMV.Sprint4.Task1.V17.csproj" Id="78e1757f-ea76-404f-a14a-15e3c58d22e4" />
+  </Folder>
 </Solution>

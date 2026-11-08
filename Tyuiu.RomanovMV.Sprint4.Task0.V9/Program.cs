@@ -30,7 +30,7 @@ namespace Tyuiu.RomanovMV.Sprint4.V9.Task0
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("Сумма всех чётных элементов элементов = " + sum);
+            Console.WriteLine("Сумма всех чётных элементов массива = " + sum);
 
             Console.ReadKey();
         }
