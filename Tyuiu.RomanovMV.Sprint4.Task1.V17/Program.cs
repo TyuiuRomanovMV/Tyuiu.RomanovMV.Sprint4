@@ -21,7 +21,7 @@ namespace Tyuiu.RomanovMV.Sprint4.Task1.V17
 
 
             int len;
-            Console.WriteLine("Введите длин массива");
+            Console.WriteLine("Введите длину массива");
             len = Convert.ToInt32(Console.ReadLine());
 
 
